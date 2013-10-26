@@ -1,0 +1,8 @@
+name: RankTest
+main: com.vidhucraft.ranktest.RankTest
+version: 1.0.0
+softdepend: [PermissionsEx]
+commands:
+    test:
+        description: tests the rank for a given group
+        usage: /<command> [rank] [minutes]
